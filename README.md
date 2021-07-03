@@ -1,4 +1,4 @@
-# Sample
+# Near-heritage: The spicy hello word
 
 This repository includes a complete project structure for AssemblyScript contracts targeting the NEAR platform. This is an spicy "hello world" in assemblyscript for new developers.
 
